@@ -17,6 +17,10 @@
 
 - Removed unnecessary dependency on `unimodules-constants-interface`. ([#12876](https://github.com/expo/expo/pull/12876) by [@tsapeta](https://github.com/tsapeta))
 
+### ⚠️ Notices
+
+- Built with Java 8 to especially fix Android instrumented test build error. ([#12893](https://github.com/expo/expo/pull/12893) by [@kudo](https://github.com/kudo))
+
 ## 11.1.1 — 2021-04-20
 
 _This version does not introduce any user-facing changes._

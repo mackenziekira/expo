@@ -14,6 +14,10 @@
 
 - Migrated camera's interface from `unimodules-camera-interface` to `expo-modules-core`.
 
+### ⚠️ Notices
+
+- Built with Java 8 to especially fix Android instrumented test build error. ([#12893](https://github.com/expo/expo/pull/12893) by [@kudo](https://github.com/kudo))
+
 ## 10.3.0 — 2021-04-20
 
 ### 🎉 New features
